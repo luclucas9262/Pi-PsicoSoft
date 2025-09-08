@@ -1,1 +1,1 @@
-Sistema de clinicas psiquiatras para alzaimer Sistema de clinicas psiquiatras para alzaimer Sistema de clinicas psiquiatras para alzaimer Sistema de clinicas psiquiatras para alzaimer Sistema de clinicas psiquiatras para alzaimer Sistema de clinicas psiquiatras para alzaimer Sistema de clinicas psiquiatras para alzaimer
+Desenvolvimento de projeto para sistema de clínicas, cadastramentos de pacientes para agendamento de consultas.
